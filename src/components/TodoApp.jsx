@@ -11,7 +11,7 @@ const formValues = {
     estado: false
 }
 
-const URL_BASE_API = 'https://thin-minute-production.up.railway.app/'
+const URL_BASE_API = 'https://giddy-goat-buckle.cyclic.app'
 
 function TodoApp() {
     const [todoArray, setTodoArray] = useState([])
